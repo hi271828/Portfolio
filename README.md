@@ -4,5 +4,5 @@
 
 |#|Название проекта|Описание|Стек|
 |---|---|---|---|
-|1|[Анализ бизнес-метрик приложения с целью обнаружения причин убыточности](https://github.com/hi271828/Portfolio/blob/main/Business_metrics_PP/Business_metrics_PP.ipynb)|Анализ логов пользовательской активности и расчет бизнес-метрик: LTV, CAC, ROI, CR, RR.|python, pandas, numpy, datetime, matplotlib, seaborn, функции расчета и визуализации LTV, CAC, ROI, CR, RR.|
-|2|[Выделение групп пользователей торговой интернет-площадки на основе их поведения](https://github.com/hi271828/Portfolio/blob/main/Segmentation_NV/Segmentation_NV.ipynb)|Кластеризация и описание кластеров пользователей, проверка гипотез, составление рекомендаций отделу маркетинга.|python, pandas, numpy, datetime, sklearn, math, scipy, matplotlib, seaborn, plotly.|
+|1|[Анализ бизнес-метрик приложения с целью обнаружения причин убыточности](https://github.com/hi271828/Portfolio/blob/main/Business_metrics_PP)|Анализ логов пользовательской активности и расчет бизнес-метрик: LTV, CAC, ROI, CR, RR.|python, pandas, numpy, datetime, matplotlib, seaborn, функции расчета и визуализации LTV, CAC, ROI, CR, RR.|
+|2|[Выделение групп пользователей торговой интернет-площадки на основе их поведения](https://github.com/hi271828/Portfolio/blob/main/Segmentation_NV)|Кластеризация и описание кластеров пользователей, проверка гипотез, составление рекомендаций отделу маркетинга.|python, pandas, numpy, datetime, sklearn, math, scipy, matplotlib, seaborn, plotly.|
